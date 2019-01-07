@@ -86,3 +86,13 @@ D:\OnlineShop_BanCuoi\_Models\bin\Debug\EntityFramework.SqlServer.xml
 D:\OnlineShop_BanCuoi\_Models\obj\Debug\_Models.dll
 D:\OnlineShop_BanCuoi\_Models\obj\Debug\_Models.pdb
 D:\OnlineShop_BanCuoi\_Models\obj\Debug\_Models.csprojResolveAssemblyReference.cache
+E:\test\XayDungPhanMemHDT\OnlineShop_BanCuoi\_Models\bin\Debug\_Models.dll.config
+E:\test\XayDungPhanMemHDT\OnlineShop_BanCuoi\_Models\bin\Debug\_Models.dll
+E:\test\XayDungPhanMemHDT\OnlineShop_BanCuoi\_Models\bin\Debug\_Models.pdb
+E:\test\XayDungPhanMemHDT\OnlineShop_BanCuoi\_Models\bin\Debug\EntityFramework.dll
+E:\test\XayDungPhanMemHDT\OnlineShop_BanCuoi\_Models\bin\Debug\EntityFramework.SqlServer.dll
+E:\test\XayDungPhanMemHDT\OnlineShop_BanCuoi\_Models\bin\Debug\EntityFramework.xml
+E:\test\XayDungPhanMemHDT\OnlineShop_BanCuoi\_Models\bin\Debug\EntityFramework.SqlServer.xml
+E:\test\XayDungPhanMemHDT\OnlineShop_BanCuoi\_Models\obj\Debug\_Models.csprojResolveAssemblyReference.cache
+E:\test\XayDungPhanMemHDT\OnlineShop_BanCuoi\_Models\obj\Debug\_Models.dll
+E:\test\XayDungPhanMemHDT\OnlineShop_BanCuoi\_Models\obj\Debug\_Models.pdb

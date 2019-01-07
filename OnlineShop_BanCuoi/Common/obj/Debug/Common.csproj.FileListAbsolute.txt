@@ -23,3 +23,8 @@ D:\OnlineShop_BanCuoi\Common\bin\Debug\Common.pdb
 D:\OnlineShop_BanCuoi\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
 D:\OnlineShop_BanCuoi\Common\obj\Debug\Common.dll
 D:\OnlineShop_BanCuoi\Common\obj\Debug\Common.pdb
+E:\test\XayDungPhanMemHDT\OnlineShop_BanCuoi\Common\bin\Debug\Common.dll
+E:\test\XayDungPhanMemHDT\OnlineShop_BanCuoi\Common\bin\Debug\Common.pdb
+E:\test\XayDungPhanMemHDT\OnlineShop_BanCuoi\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+E:\test\XayDungPhanMemHDT\OnlineShop_BanCuoi\Common\obj\Debug\Common.dll
+E:\test\XayDungPhanMemHDT\OnlineShop_BanCuoi\Common\obj\Debug\Common.pdb
